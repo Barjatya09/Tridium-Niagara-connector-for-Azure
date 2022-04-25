@@ -340,3 +340,4 @@ extends BComponent
     */
 }
 
+This is not required for use
